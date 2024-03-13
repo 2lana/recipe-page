@@ -3,7 +3,7 @@
  Frontend Mentor - Results summary component solution
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). I hope Frontend Mentor challenges help me improve my coding skills by building realistic projects.
-
+![screenshot](screen-omelette.png)
 ## Table of contents
 
 - [Overview](#overview)
