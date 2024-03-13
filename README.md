@@ -5,7 +5,7 @@
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). I hope Frontend Mentor challenges help me improve my coding skills by building realistic projects.
 
 
-[screen-omelette](https://github.com/2lana/recipe-page/assets/155898526/584e99f6-1ce9-43bf-a2b0-560e4be3eb2c)
+![screenshot][screen-omelette](https://github.com/2lana/recipe-page/assets/155898526/584e99f6-1ce9-43bf-a2b0-560e4be3eb2c)
 
 ## Table of contents
 
